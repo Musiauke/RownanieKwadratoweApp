@@ -1,0 +1,14 @@
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/bin/Debug/net9.0/RownanieKwadratoweApp
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/bin/Debug/net9.0/RownanieKwadratoweApp.deps.json
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/bin/Debug/net9.0/RownanieKwadratoweApp.runtimeconfig.json
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/bin/Debug/net9.0/RownanieKwadratoweApp.dll
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/bin/Debug/net9.0/RownanieKwadratoweApp.pdb
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.AssemblyInfoInputs.cache
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.AssemblyInfo.cs
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.csproj.CoreCompileInputs.cache
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.dll
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/refint/RownanieKwadratoweApp.dll
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.pdb
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.genruntimeconfig.cache
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/ref/RownanieKwadratoweApp.dll
