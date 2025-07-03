@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RownanieKwadratoweApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d53f0bf8edaafa33c996c2267654373883791a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RownanieKwadratoweApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RownanieKwadratoweApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@
 /Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.pdb
 /Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.genruntimeconfig.cache
 /Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/ref/RownanieKwadratoweApp.dll
+/Users/a.musialke/Documents/Studia Informatyka WSB/Inżynieria Oprogramowania/Zadanie 4 Testy jednostkowe/RownanieKwadratoweApp/obj/Debug/net9.0/RownanieKwadratoweApp.sourcelink.json
